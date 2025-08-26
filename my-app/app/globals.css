@@ -27,7 +27,7 @@
 
 body {
   @apply bg-no-repeat bg-cover bg-center bg-stone-800/75 bg-blend-multiply;
-  background-image: url('/background-2.jpg');
+  background-image: url('/background-animado-1.gif');
   font-family: Arial, Helvetica, sans-serif;
 }
 
