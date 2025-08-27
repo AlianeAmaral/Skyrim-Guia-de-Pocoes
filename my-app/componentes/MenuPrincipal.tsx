@@ -14,12 +14,12 @@ export default function MenuPrincipal(){
             </div>
         </div>
 
-            <div className="fixed top-7 w-screen flex flex-row items-start text-neutral-300 text-sm space-x-20 justify-end pr-45 py-4">
-                <p className="hover:text-orange-100 transition ease-in-out duration-800 cursor-pointer">Página Inicial</p>
-                <p className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Ingredientes</p>
-                <p className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Receitas</p>
-                <p className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Vendedores</p>
-                <p className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Quests</p>
+            <div className="fixed top-7 w-screen flex flex-row items-start text-neutral-300 text-sm space-x-18 justify-end pr-45 py-4">
+                <p className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Página Inicial</p>
+                <li className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Ingredientes</li>
+                <li className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Receitas</li>
+                <li className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Vendedores</li>
+                <li className="hover:text-orange-100 hover:scale-3d ease-in-out transition-all duration-700 cursor-pointer">Quests</li>
                 
                 <div className="fixed top-9 right-13">
                 <button className="cursor-pointer font-sans font-bold text-sm text-stone-950 
